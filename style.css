@@ -1,0 +1,8 @@
+body {
+    display: flex;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: #1f2937;
+}
